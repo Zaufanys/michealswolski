@@ -1,0 +1,77 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#060B13"/>
+      <stop offset="0.55" stop-color="#0B1526"/>
+      <stop offset="1" stop-color="#0A1D24"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 60) rotate(90) scale(260)">
+      <stop stop-color="#22D3EE" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowIndigo" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(140 300) rotate(-90) scale(240)">
+      <stop stop-color="#6366F1" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="glassFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.03"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.16"/>
+      <stop offset="0.35" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="cardClip">
+      <rect x="56" y="56" width="760" height="208" rx="22"/>
+    </clipPath>
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="26"/>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#8FD9F2" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect width="1200" height="320" fill="url(#glowCyan)"/>
+  <rect width="1200" height="320" fill="url(#glowIndigo)"/>
+
+  <!-- frosted glass panel behind headline -->
+  <g clip-path="url(#cardClip)">
+    <circle cx="120" cy="60" r="180" fill="#22D3EE" opacity="0.30" filter="url(#softBlur)"/>
+    <circle cx="720" cy="240" r="160" fill="#6366F1" opacity="0.22" filter="url(#softBlur)"/>
+  </g>
+  <rect x="56" y="56" width="760" height="208" rx="22" fill="url(#glassFill)" stroke="#8FD9F2" stroke-opacity="0.22" stroke-width="1.2"/>
+  <path d="M56 78a22 22 0 0 1 22-22h300L96 264H78a22 22 0 0 1-22-22z" fill="url(#sheen)" clip-path="url(#cardClip)"/>
+
+  <!-- headline -->
+  <text x="92" y="150" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="1" fill="#F1F5F9">MICHEAL WOLSKI</text>
+  <rect x="94" y="168" width="150" height="4" rx="2" fill="url(#accent)"/>
+  <text x="92" y="204" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" letter-spacing="0.4" fill="#93C5D8">Automotive Cybersecurity &#183; Digitalization &#183; AI</text>
+
+  <!-- tag pills -->
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" letter-spacing="0.6">
+    <rect x="92" y="222" width="150" height="30" rx="15" fill="#0E7490" fill-opacity="0.35" stroke="#22D3EE" stroke-opacity="0.45"/>
+    <text x="112" y="241" fill="#CFFAFE">PRODUCT SECURITY</text>
+
+    <rect x="254" y="222" width="150" height="30" rx="15" fill="#4338CA" fill-opacity="0.30" stroke="#818CF8" stroke-opacity="0.45"/>
+    <text x="274" y="241" fill="#E0E7FF">VEHICLE SYSTEMS</text>
+
+    <rect x="416" y="222" width="130" height="30" rx="15" fill="#0F766E" fill-opacity="0.32" stroke="#5EEAD4" stroke-opacity="0.45"/>
+    <text x="436" y="241" fill="#CCFBF1">AI ENABLEMENT</text>
+  </g>
+
+  <!-- abstract shield / circuit motif -->
+  <g transform="translate(905,70)" opacity="0.9">
+    <path d="M140 0L272 44V150C272 220 210 268 140 292C70 268 8 220 8 150V44L140 0Z" fill="none" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.55"/>
+    <path d="M140 34L240 66V148C240 202 196 240 140 260C84 240 40 202 40 148V66L140 34Z" fill="#0B1526" fill-opacity="0.4" stroke="#8FD9F2" stroke-opacity="0.3"/>
+    <path d="M100 150L128 178L188 108" stroke="#5EEAD4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="140" cy="150" r="6" fill="#22D3EE"/>
+    <path d="M140 60V96M140 210V246M60 150H96M184 150H220" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="2"/>
+  </g>
+</svg>
