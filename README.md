@@ -1,137 +1,105 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0891B2,100:0EA5E9&height=220&section=header&text=Micheal%20Wolski&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Automotive%20Cybersecurity%20%C2%B7%20Digitalization%20%C2%B7%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
-
-<a href="https://michealswolski.github.io">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=0891B2&center=true&vCenter=true&width=680&lines=Automotive+%26+Product+Cybersecurity;Embedded+%2F+Vehicle+Security+Research;Digitalization+%26+Process+Automation;AI+Agents+%2B+RAG+Knowledge+Tools;Security+Operations+%26+Threat+Analysis" alt="Typing SVG" />
-</a>
-
-**Cybersecurity Graduate · Former Bosch Mobility Product Cybersecurity Intern · Michigan, USA**
+<img src="assets/hero.svg" alt="Micheal Wolski" width="100%"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-michealswolski.github.io-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://michealswolski.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-michealswolski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michealswolski)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michealswolski@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-475569?style=for-the-badge&logo=readthedocs&logoColor=white)](https://michealswolski.github.io)
+<a href="https://michealswolski.github.io">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Automotive+%26+Product+Cybersecurity;Embedded+%2F+Vehicle+Security+Research;Digitalization+%26+Process+Automation;AI+Agents+%2B+RAG+Knowledge+Tools;Security+Operations+%26+Threat+Analysis" alt="Typing SVG" />
+</a>
 
-<img src="https://img.shields.io/github/followers/michealswolski?label=Followers&style=social" alt="GitHub followers"/>
-<img src="https://komarev.com/ghpvc/?username=michealswolski&label=Profile%20Views&color=0891B2&style=flat" alt="Profile views"/>
+<sub>Cybersecurity Graduate &#183; Former Bosch Mobility Product Cybersecurity Intern &#183; Michigan, USA</sub>
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-michealswolski.github.io-0B1526?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://michealswolski.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-michealswolski-0B1526?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/in/michealswolski)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-0B1526?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:michealswolski@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View-0B1526?style=for-the-badge&logo=readthedocs&logoColor=38BDF8)](https://michealswolski.github.io)
+
+<img src="https://img.shields.io/github/followers/michealswolski?label=Followers&style=flat-square&color=0B1526&labelColor=0B1526"/>
+<img src="https://komarev.com/ghpvc/?username=michealswolski&label=Profile+Views&color=0B1526&style=flat-square"/>
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## About Me
+## About
 
 I'm an early-career **automotive cybersecurity and digitalization** professional. I build practical solutions that connect cybersecurity, embedded systems, enterprise data, automation, and AI — from Power Platform workflows and security dashboards to AI-assisted knowledge tools, home-lab SOC environments, and hands-on offensive/defensive security work.
 
-```yaml
-role:        Automotive Cybersecurity & Digitalization
-focus:       [Product Security, Vehicle/Embedded Security, AI Enablement, Automation]
-based_in:    Michigan, USA
-currently:   Open to full-time cybersecurity / security engineering roles
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Focus areas:** Product &amp; automotive cybersecurity · Embedded / vehicle security · Digitalization &amp; process automation · AI enablement · Systems integration · Security operations &amp; analytics
+**Focus areas**
+Product &amp; automotive cybersecurity &#183; Embedded / vehicle security &#183; Digitalization &amp; process automation &#183; AI enablement &#183; Systems integration &#183; Security operations &amp; analytics
 
-<br/>
+</td>
+<td width="50%" valign="top">
+
+**Status**
+Michigan, USA &#183; graduating 2026 &#183; open to full-time cybersecurity and security-engineering roles
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%"/>
 
 ## Experience
 
-<table>
-<tr>
-<td width="90" align="center">🔧</td>
-<td>
-
-**Bosch Mobility — Product Cybersecurity Intern**
-<br/>*Farmington Hills, Michigan · 2025 – 2026*
-
-- Supported product cybersecurity and digitalization activities across multiple Bosch Mobility divisions.
-- Designed and built a cross-divisional **cybersecurity visibility platform** (Power Apps intake portal + SharePoint database layer + Power BI executive dashboard) — structured project intake (draft → submitted → returned → archived), division/customer filtering, and automated notifications.
-- Automated a previously manual internal cybersecurity portal workflow and added administrative status visibility.
-- Conducted technical research into **secure boot for safety-critical automotive controllers** through documentation review and subject-matter-expert interviews *(research and technical communication — not production implementation)*.
-- Built an **LLM-powered onboarding and knowledge assistant** with a retrieval-augmented generation (RAG) memory pipeline during an internal AI hackathon.
-- Supported senior-leadership workshops, cybersecurity events, and cross-functional coordination; served as game master during an automotive cybersecurity fire drill.
-
+> ### Bosch Mobility — Product Cybersecurity Intern
+> *Farmington Hills, Michigan &#183; 2025 – 2026*
+>
+> - Supported product cybersecurity and digitalization activities across multiple Bosch Mobility divisions.
+> - Designed and built a cross-divisional **cybersecurity visibility platform** (Power Apps intake portal + SharePoint database layer + Power BI executive dashboard) — structured project intake (draft → submitted → returned → archived), division/customer filtering, and automated notifications.
+> - Automated a previously manual internal cybersecurity portal workflow and added administrative status visibility.
+> - Conducted technical research into **secure boot for safety-critical automotive controllers** through documentation review and subject-matter-expert interviews *(research and technical communication — not production implementation)*.
+> - Built an **LLM-powered onboarding and knowledge assistant** with a retrieval-augmented generation (RAG) memory pipeline during an internal AI hackathon.
+> - Supported senior-leadership workshops, cybersecurity events, and cross-functional coordination; served as game master during an automotive cybersecurity fire drill.
+>
 > Public-facing summary only. No confidential Bosch information, data, internal systems, or proprietary material is disclosed.
 
-</td>
-</tr>
-</table>
-
-<br/>
+<img src="assets/divider.svg" width="100%"/>
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
+![Security & Automotive](https://img.shields.io/badge/SECURITY_%26_AUTOMOTIVE-0E7490?style=for-the-badge&labelColor=0B1526)
 
-### 🛡️ Security &amp; Automotive
+| Project | Description | Status |
+|---|---|---|
+| [**Network Utility Tool**](https://github.com/michealswolski/network-utility-tool) | PowerShell network utility for Windows 10/11 — DNS benchmarking, diagnostics, and DFIR-oriented tooling. | ![Completed](https://img.shields.io/badge/Completed-0F766E?style=flat-square) |
+| [**OBD-II Diagnostic Scanner**](https://github.com/michealswolski/obd2-diagnostic-scanner) | Python vehicle diagnostic scanner with hardware interfacing and ECU protocol handling. | ![Prototype](https://img.shields.io/badge/Prototype-B45309?style=flat-square) |
+| [**Secure Boot Research**](https://github.com/michealswolski/secure-boot-research) | Research on secure boot for embedded / automotive controllers. | ![Research](https://img.shields.io/badge/Research-4338CA?style=flat-square) |
+| [**PKI &amp; CA Research**](https://github.com/michealswolski/pki-ca-research) | Analysis of PKI infrastructure vulnerabilities and certificate-authority trust models. | ![Research](https://img.shields.io/badge/Research-4338CA?style=flat-square) |
 
-**[Network Utility Tool](https://github.com/michealswolski/network-utility-tool)**
-PowerShell network utility for Windows 10/11 — DNS benchmarking, diagnostics, and DFIR-oriented tooling.
+![AI & Automation](https://img.shields.io/badge/AI_%26_AUTOMATION-4338CA?style=for-the-badge&labelColor=0B1526)
 
-**[OBD-II Diagnostic Scanner](https://github.com/michealswolski/obd2-diagnostic-scanner)**
-Python-based vehicle diagnostic scanner with hardware interfacing and ECU protocol handling.
+| Project | Description | Status |
+|---|---|---|
+| **365 Whitepaper Agent** | Bosch internal AI-hackathon project — LLM-powered onboarding agent with a RAG memory pipeline. | ![Completed](https://img.shields.io/badge/Completed-0F766E?style=flat-square) |
+| **forecast-ai** | Applied AI / forecasting project. | ![In Development](https://img.shields.io/badge/In_Development-1D4ED8?style=flat-square) |
+| **ai-agent-governance** | Framework exploring governance and guardrails for AI agents. | ![In Development](https://img.shields.io/badge/In_Development-1D4ED8?style=flat-square) |
+| **document-analyzer-ai** | AI-assisted document analysis and extraction tool. | ![In Development](https://img.shields.io/badge/In_Development-1D4ED8?style=flat-square) |
+| **auto-job-intel** | AI-assisted job-search and application intelligence tool. | ![In Development](https://img.shields.io/badge/In_Development-1D4ED8?style=flat-square) |
 
-**[Secure Boot Research](https://github.com/michealswolski/secure-boot-research)**
-Research on secure boot for embedded / automotive controllers.
+![Platforms & Full-Stack](https://img.shields.io/badge/PLATFORMS_%26_FULL--STACK-0F766E?style=for-the-badge&labelColor=0B1526)
 
-**[PKI &amp; CA Research](https://github.com/michealswolski/pki-ca-research)**
-Analysis of PKI infrastructure vulnerabilities and certificate-authority trust models.
+| Project | Description | Status |
+|---|---|---|
+| **Bosch Project Database &amp; Dashboard** | Cybersecurity Visibility Platform — Power Apps intake portal, SharePoint database layer, and Power BI reporting. | ![Completed](https://img.shields.io/badge/Completed-0F766E?style=flat-square) |
+| [**Wolski Command Center**](https://github.com/michealswolski/wolski-command-center) | Full-stack Raspberry Pi home-lab dashboard — React, Node.js/Express, SSH, system monitoring, file management, AI-assisted administration. | ![Completed](https://img.shields.io/badge/Completed-0F766E?style=flat-square) |
+| [**Portfolio Site**](https://michealswolski.github.io) | Personal cybersecurity portfolio — React + Vite, deployed on GitHub Pages. | ![Live](https://img.shields.io/badge/Live-0F766E?style=flat-square) |
+| **S650 Mustang Mod Tracker** | React build-management app for tracking vehicle modifications. | ![In Development](https://img.shields.io/badge/In_Development-1D4ED8?style=flat-square) |
 
-</td>
-<td width="33%" valign="top">
+<sub>Earlier / archived work: <a href="https://github.com/michealswolski/ford-ecu-detector">Ford ECU Detector</a> &#183; <a href="https://github.com/michealswolski/meshlink-ios">MeshLink</a> (encrypted BLE P2P messaging concept) — no longer actively maintained.</sub>
 
-### 🤖 AI &amp; Automation
-
-**365 Whitepaper Agent**
-Bosch internal AI-hackathon project — LLM-powered onboarding agent with a RAG memory pipeline.
-
-**forecast-ai**
-Applied AI / forecasting project (JavaScript).
-
-**ai-agent-governance**
-Framework/tooling exploring governance and guardrails for AI agents.
-
-**document-analyzer-ai**
-AI-assisted document analysis and extraction tool.
-
-**auto-job-intel**
-AI-assisted job-search and application intelligence tool (TypeScript).
-
-</td>
-<td width="33%" valign="top">
-
-### 💼 Platforms &amp; Full-Stack
-
-**Bosch Project Database &amp; Dashboard**
-Cybersecurity Visibility Platform — Power Apps intake portal, SharePoint database layer, and Power BI reporting.
-
-**[Wolski Command Center](https://github.com/michealswolski/wolski-command-center)**
-Full-stack Raspberry Pi home-lab dashboard — React, Node.js/Express, SSH, system monitoring, file management, AI-assisted administration.
-
-**[Portfolio Site](https://michealswolski.github.io)**
-Personal cybersecurity portfolio — React + Vite, deployed on GitHub Pages.
-
-**S650 Mustang Mod Tracker**
-React build-management app for tracking vehicle modifications.
-
-</td>
-</tr>
-</table>
-
-<sub>Earlier / archived work: <a href="https://github.com/michealswolski/ford-ecu-detector">Ford ECU Detector</a> · <a href="https://github.com/michealswolski/meshlink-ios">MeshLink</a> (encrypted BLE P2P messaging concept) — no longer actively maintained.</sub>
-
-<br/>
+<img src="assets/divider.svg" width="100%"/>
 
 ## Security Operations &amp; Home-Lab Work
 
-Hands-on, authorized lab environments covering the full detect → respond → harden lifecycle:
+Hands-on, authorized lab environments covering the full detect → respond → harden lifecycle.
 
 | Lab | Focus |
 |---|---|
@@ -146,20 +114,20 @@ Hands-on, authorized lab environments covering the full detect → respond → h
 
 <sub>Plus CAN bus / OBD-II monitoring and a Security-Operations traffic-analysis lab (Wireshark, Security Onion) from academic coursework.</sub>
 
-<br/>
+<img src="assets/divider.svg" width="100%"/>
 
 ## Skills
 
-<div align="center">
-
 **Automotive &amp; Embedded Security**
-Automotive cybersecurity fundamentals · CAN bus · OBD-II · Secure-boot concepts · HSM &amp; root-of-trust concepts · ECU architecture awareness · ISO/SAE 21434 · UN R155 / R156 · AUTOSAR SecOC · V-model · TARA (conceptual) · OTA &amp; software-download security
+Automotive cybersecurity fundamentals &#183; CAN bus &#183; OBD-II &#183; Secure-boot concepts &#183; HSM &amp; root-of-trust concepts &#183; ECU architecture awareness &#183; ISO/SAE 21434 &#183; UN R155 / R156 &#183; AUTOSAR SecOC &#183; V-model &#183; TARA (conceptual) &#183; OTA &amp; software-download security
 
 **Enterprise Digitalization**
-Power Apps · Power Automate · Power BI · Dataverse · SharePoint · Workflow &amp; intake design · Process automation · Dashboards · Requirements gathering
+Power Apps &#183; Power Automate &#183; Power BI &#183; Dataverse &#183; SharePoint &#183; Workflow &amp; intake design &#183; Process automation &#183; Dashboards &#183; Requirements gathering
 
 **AI &amp; Data**
-AI agents &amp; assistants · Retrieval-augmented generation · Prompt design · Vector-database concepts · Data visualization
+AI agents &amp; assistants &#183; Retrieval-augmented generation &#183; Prompt design &#183; Vector-database concepts &#183; Data visualization
+
+<div align="center">
 
 <br/>
 
@@ -167,91 +135,72 @@ AI agents &amp; assistants · Retrieval-augmented generation · Prompt design ·
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-1F425F?style=flat-square&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nessus-00A0DF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Security%20Onion-2E3440?style=flat-square"/>
-<img src="https://img.shields.io/badge/pfSense-212121?style=flat-square"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white"/>
-<img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-0B1526?style=flat-square&logo=wireshark&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Splunk-0B1526?style=flat-square&logo=splunk&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Nmap-0B1526?style=flat-square&logo=nmap&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-0B1526?style=flat-square&logo=burpsuite&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Nessus-0B1526?style=flat-square"/>
+<img src="https://img.shields.io/badge/Security%20Onion-0B1526?style=flat-square"/>
+<img src="https://img.shields.io/badge/pfSense-0B1526?style=flat-square"/>
+<img src="https://img.shields.io/badge/Metasploit-0B1526?style=flat-square&logo=metasploit&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Power%20BI-0B1526?style=flat-square&logo=powerbi&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Power%20Automate-0B1526?style=flat-square&logo=powerautomate&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/SharePoint-0B1526?style=flat-square&logo=microsoftsharepoint&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-0B1526?style=flat-square&logo=raspberrypi&logoColor=38BDF8"/>
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%"/>
 
 ## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=michealswolski&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891B2&icon_color=0EA5E9&text_color=c9d1d9&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michealswolski&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891B2&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=michealswolski&show_icons=true&hide_border=true&border_radius=14&bg_color=0B1526&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michealswolski&layout=compact&hide_border=true&border_radius=14&bg_color=0B1526&title_color=38BDF8&text_color=CBD5E1"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=michealswolski&theme=tokyonight&hide_border=true&background=0D1117&ring=0891B2&fire=0EA5E9&currStreakLabel=0891B2"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=michealswolski&hide_border=true&border_radius=14&background=0B1526&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=michealswolski&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0EA5E9&line=0891B2&point=ffffff" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=michealswolski&hide_border=true&bg_color=0B1526&color=38BDF8&line=22D3EE&point=E2E8F0&area=true&area_color=22D3EE" width="98%"/>
 
 <a href="https://github.com/michealswolski">
-  <img src="https://github-profile-trophy.vercel.app/?username=michealswolski&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=michealswolski&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Trophies"/>
 </a>
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%"/>
 
 ## Education
 
-<table>
-<tr>
-<td width="90" align="center">🎓</td>
-<td>
+> ### Eastern Michigan University — B.S. Information Assurance &amp; Cyber Defense
+> *Cum Laude &#183; GPA 3.66 &#183; Ypsilanti, MI &#183; Graduated 2026*
+>
+> ### Henry Ford College — A.A.S. Cybersecurity
+> *Dearborn, MI &#183; Graduated May 2023 &#183; Dean's List*
 
-**Eastern Michigan University** — B.S. Information Assurance &amp; Cyber Defense
-*Cum Laude · GPA 3.66 · Ypsilanti, MI · Graduated 2026*
-
-**Henry Ford College** — A.A.S. Cybersecurity
-*Dearborn, MI · Graduated May 2023 · Dean's List*
-
-</td>
-</tr>
-</table>
-
-<br/>
+<img src="assets/divider.svg" width="100%"/>
 
 ## Professional Development
 
-<div align="center">
-
 `Auto-ISAC Cybersecurity Summit 2026` `IQPC Automotive Cybersecurity Conference 2026` `Bosch Internal Cybersecurity CTF` `Bosch Internal AI Hackathon` `Automotive Cybersecurity Fire Drill` `Senior-Leadership Workshops` `Corporate IP &amp; Data-Protection Training` `Secure-Boot SME Interviews` `Automotive Innovations Tech Day`
 
-</div>
-
-<br/>
+<img src="assets/divider.svg" width="100%"/>
 
 ## Currently Exploring
 
-Enterprise AI agents &amp; knowledge assistants · Agentic cybersecurity tools for authorized labs · Raspberry Pi &amp; mobile-accessible system management · Router / IoT security research (authorized) · REVV automotive community platform · Automotive embedded-security research · Power Platform automation · Azure fundamentals · Databricks-style enterprise analytics
+Enterprise AI agents &amp; knowledge assistants &#183; Agentic cybersecurity tools for authorized labs &#183; Raspberry Pi &amp; mobile-accessible system management &#183; Router / IoT security research (authorized) &#183; REVV automotive community platform &#183; Automotive embedded-security research &#183; Power Platform automation &#183; Azure fundamentals &#183; Databricks-style enterprise analytics
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
-### Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-michealswolski.github.io-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://michealswolski.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-michealswolski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michealswolski)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michealswolski@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-michealswolski.github.io-0B1526?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://michealswolski.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-michealswolski-0B1526?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/in/michealswolski)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-0B1526?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:michealswolski@gmail.com)
 
 <br/>
 
-*Thanks for stopping by — always happy to talk automotive security, digitalization, or AI.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=100&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%"/>
 
 </div>
